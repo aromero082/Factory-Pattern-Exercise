@@ -1,0 +1,14 @@
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\bin\Debug\netcoreapp3.1\FactoryPatternApp.exe
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\bin\Debug\netcoreapp3.1\FactoryPatternApp.deps.json
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\bin\Debug\netcoreapp3.1\FactoryPatternApp.runtimeconfig.json
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\bin\Debug\netcoreapp3.1\FactoryPatternApp.runtimeconfig.dev.json
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\bin\Debug\netcoreapp3.1\FactoryPatternApp.dll
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\bin\Debug\netcoreapp3.1\FactoryPatternApp.pdb
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.csproj.AssemblyReference.cache
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.AssemblyInfoInputs.cache
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.AssemblyInfo.cs
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.dll
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.pdb
+C:\Users\arome\source\repos\FactoryPatternApp\FactoryPatternApp\obj\Debug\netcoreapp3.1\FactoryPatternApp.genruntimeconfig.cache
